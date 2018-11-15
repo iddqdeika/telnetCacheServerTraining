@@ -1,3 +1,4 @@
+//some usefull fuctions and interfaces to be used by all rule implementations
 package Rules
 
 import (

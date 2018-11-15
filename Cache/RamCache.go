@@ -1,3 +1,4 @@
+//implementation of chaching logic to be used as DB
 package Cache
 
 import (

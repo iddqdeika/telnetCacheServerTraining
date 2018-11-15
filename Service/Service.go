@@ -1,3 +1,4 @@
+//struct that can be used as service to handle incoming connections with console-type clients
 package Service
 
 import (
