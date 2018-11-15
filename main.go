@@ -21,11 +21,3 @@ func main() {
 		go service.Accept(con)
 	}
 }
-
-type A struct {
-	text string
-}
-
-func (a *A) New() *A {
-	return &(A{text: "111"})
-}
